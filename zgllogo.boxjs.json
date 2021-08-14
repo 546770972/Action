@@ -1,9 +1,9 @@
 {
   "id": "zgllogo.app.sub",
   "name": "涂山凉凉",
-  "author": "@linainai",
+  "author": "@zgllogo",
   "icon": "https://raw.githubusercontent.com/dawangLM/linainai/main/linainai.png",
-  "repo": "https://github.com/546770972/Action/tree/main",
+  "repo": "https://github.com/546770972/Action/main",
   "apps": [
    {
       "id": "fhxz",
